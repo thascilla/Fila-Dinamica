@@ -1,2 +1,2 @@
 # Fila-Dinamica
-Conceito de fila dinamica para enseri e remover em C.
+Conceito de fila dinamica para inseri e remover em C.
